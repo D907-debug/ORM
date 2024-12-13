@@ -48,6 +48,8 @@ Include the screenshot of your admin page.
 ![Screenshot 2024-12-07 045613](https://github.com/user-attachments/assets/a52bda47-d65d-4f39-8fda-01087230299a)
 ![Screenshot 2024-12-07 045634](https://github.com/user-attachments/assets/c7163a8b-a9bd-4e19-b300-0f0e6f78e39c)
 ![Screenshot 2024-12-07 045648](https://github.com/user-attachments/assets/34b13ba3-a13e-404b-a7a1-387c09438663)
+![img](https://github.com/user-attachments/assets/fcb01a7e-c24a-4783-947f-3fc4d2c6b3a2)
+
 
 
 
